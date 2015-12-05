@@ -1,0 +1,16 @@
+{
+  "name": "conpago/conpago-dev-tools",
+  "description": "Developer tools for conpago projects.",
+  "version": "0.0.1-alpha",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "authors": [
+    {
+      "name": "Bartosz Gołek",
+      "email": "bartosz.golek@gmail.com",
+      "homepage": "http://bartosz.golek.biz"
+    }
+  ],
+}
