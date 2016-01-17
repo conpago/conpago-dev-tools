@@ -25,9 +25,9 @@
  <rule ref="Squiz.Debug"/>
  <rule ref="Squiz.Formatting"/>
  <rule ref="Squiz.Functions"/>
- <rule ref="Squiz.NamingConventions"/>
  <rule ref="Squiz.Objects"/>
- <rule ref="Squiz.Operators"/>
+ <rule ref="Squiz.Operators.IncrementDecrementUsage"/>
+ <rule ref="Squiz.Operators.ValidLogicalOperators"/>
  <rule ref="Squiz.PHP"/>
  <rule ref="Squiz.Scope"/>
  <rule ref="Squiz.Strings"/>
